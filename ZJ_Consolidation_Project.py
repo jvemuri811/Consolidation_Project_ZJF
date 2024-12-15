@@ -92,8 +92,8 @@ def initialize_game(target_score, number_of_players):
 # game_state = initialize_game(target_score)
 # print("Game State" , game_state)
 
-# When adding more players, you could set a max amount of players or a minimum amount of players needed to start the game
-# This way the game doesnt become overflowed with players and the game reaches the minimum amount of players to enhance the game's experience
+# When adding more players, you could set a max amount of players or a minimum amount of players needed to start the game.
+# This way the game doesnt become overflowed with players and the game reaches the minimum amount of players to enhance the game's experience.
 
 #Adding players to game
 def add_player(players, scores, player_name):
